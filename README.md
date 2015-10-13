@@ -1,6 +1,8 @@
 doc-bot
 =======
 
-Dockerfile for [nhoag/hubot](https://registry.hub.docker.com/u/nhoag/hubot/) image published on Docker Hub.
+Source available at [ChrisHirsch/docker-hubot](https://github.com/ChrisHirsch/docker-hubot).
+Forked from [nhoag/hubot](https://github.com/nhoag/hubot) but now contains a HipChat connector.
 
-Configure with [bot-cfg](https://github.com/nhoag/bot-cfg).
+Configure with [bot-cfg](https://github.com/nhoag/bot-cfg)
+
