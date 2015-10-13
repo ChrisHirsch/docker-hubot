@@ -2,3 +2,4 @@
 
 FROM iojs:onbuild
 MAINTAINER Nathaniel Hoag, info@nathanielhoag.com
+MAINTAINER Chris Hirsch <chris@base2technology.com>
